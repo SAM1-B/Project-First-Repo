@@ -215,6 +215,10 @@ body{
 
 /* ///////////  MEDIA QUERY FOR HOME PAGE   //////////////// */
 @media (min-width:979px){
+
+  body{
+  overflow-x:hidden;
+}
     .bestFeatureTxt{
         width: 60%;
     }
